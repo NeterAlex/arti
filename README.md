@@ -15,12 +15,12 @@ In the **back-end**, `gin` is used as a web framework with `go-jwt` for user aut
 ## ⭐️ Features
 + Basic article display and edit.
 + Markdown support.
-+ Dark mode.
++ Dark mode support.
 + Responsive UI for mobile and desktop.
 + User authentication using token.
 
 ## 🗂 Run
-> The project use `pnpm` as the default package manager, click [here](https://pnpm.io/) to have a look.
+> The project uses `pnpm` as the default package manager, click [here](https://pnpm.io/) to have a look.
 1. Clone the project.
 2. run `pnpm install` to install all dependencies.
 3. Execute `next run` to run the project.
