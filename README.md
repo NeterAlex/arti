@@ -1,6 +1,7 @@
 # Arti
-An article-editing application with the separation of front-end and back-end, developed in `typescript` and `go`
-There is frontend project, and for back-end, it's **here**.
+An article-editing application with the separation of front-end and back-end, developed in `typescript` and `go`.
+
+This is the frontend project, and for back-end, it's **[here](https://github.com/NeterAlex/arti_backend)**.
 
 ## 🧬 Introduction
 It's a testing project with the purpose of learning web and fullstack development, and is being constantly improved.
