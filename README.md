@@ -27,7 +27,7 @@ In the **back-end**, `gin` is used as a web framework with `go-jwt` for user aut
 ## 🗂 Run
 > The project uses `pnpm` as the default package manager, click [here](https://pnpm.io/) to have a look.
 1. Clone the project.
-2. run `pnpm install` to install all dependencies.
+2. Run `pnpm install` to install all dependencies.
 3. Execute `next run` to run the project.
 
 ## 🏷️ TODO
