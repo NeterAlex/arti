@@ -20,4 +20,7 @@ In the **back-end**, `gin` is used as a web framework with `go-jwt` for user aut
 + User authentication using token.
 
 ## 🗂 Run
-Clone the project and execute `next run`
+> The project use `pnpm` as the default package manager, click [here](https://pnpm.io/) to have a look.
+1. Clone the project.
+2. run `pnpm install` to install all dependencies.
+3. Execute `next run` to run the project.
