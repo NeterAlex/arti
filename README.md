@@ -24,3 +24,10 @@ In the **back-end**, `gin` is used as a web framework with `go-jwt` for user aut
 1. Clone the project.
 2. run `pnpm install` to install all dependencies.
 3. Execute `next run` to run the project.
+
+## 🏷️ TODO
+- [ ] OAuth support
+- [ ] article export
+- [ ] article preview image display and management
+- [ ] more detailed user information display
+- [ ] optimize mobile UI
