@@ -19,6 +19,11 @@ In the **back-end**, `gin` is used as a web framework with `go-jwt` for user aut
 + Responsive UI for mobile and desktop.
 + User authentication using token.
 
+## 🔭 Preview
+| Light Mode | Dark Mode |
+| --- | --- |
+| ![light](https://cdn.staticaly.com/gh/NeterAlex/image_host@main/20230219/light.344jqodn01c0.webp) | ![night](https://cdn.staticaly.com/gh/NeterAlex/image_host@main/20230219/night.23txilyngvcw.webp) |
+
 ## 🗂 Run
 > The project uses `pnpm` as the default package manager, click [here](https://pnpm.io/) to have a look.
 1. Clone the project.
