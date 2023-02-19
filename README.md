@@ -20,9 +20,9 @@ In the **back-end**, `gin` is used as a web framework with `go-jwt` for user aut
 + User authentication using token.
 
 ## 🔭 Preview
-| Light Mode | Dark Mode |
-| --- | --- |
-| ![light](https://cdn.staticaly.com/gh/NeterAlex/image_host@main/20230219/light.344jqodn01c0.webp) | ![night](https://cdn.staticaly.com/gh/NeterAlex/image_host@main/20230219/night.23txilyngvcw.webp) |
+| Light Mode | Dark Mode | Mobile |
+| --- | --- | --- |
+| ![light](https://cdn.staticaly.com/gh/NeterAlex/image_host@main/20230219/light.344jqodn01c0.webp) | ![night](https://cdn.staticaly.com/gh/NeterAlex/image_host@main/20230219/night.23txilyngvcw.webp) | ![mobile](https://cdn.staticaly.com/gh/NeterAlex/image_host@main/20230219/mobile.6ouusbh626o0.webp) |
 
 ## 🗂 Run
 > `Arti` uses `pnpm` as the default package manager, click [here](https://pnpm.io/) to have a look.
